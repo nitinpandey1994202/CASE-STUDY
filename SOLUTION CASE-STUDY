@@ -1,0 +1,9 @@
+Create MySQL tables and insert dummy data into it according to the problem statement.
+
+1. Sqoop incremental import needs to implemented to import the data from MySQL table(created
+earlier) into HDFS incrementally.
+2. Find the details of various items purchased by various customers in the quarters '2015-05-01' -
+'2015-08-31-'2015-08-31'
+3. Find which part the world has more number of customers and their total purchases in the past.
+
+|||||||||||||||||||||||||ANSWER IS ATTACHED IN DOCX||||||||||||||||||
